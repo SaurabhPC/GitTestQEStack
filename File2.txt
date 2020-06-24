@@ -1,2 +1,6 @@
-This is a test asjskhdh 
-Change for conflict
+This is a test asjskhdh. Change for conflict
+
+
+This is a test too
+
+made a change

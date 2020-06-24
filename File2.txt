@@ -1,4 +1,8 @@
 This is a test Change for conflict. To test Rebase
 This is a test too 
 alright
-made a change
+
+made a changes
+
+
+Added more lines now
